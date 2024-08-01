@@ -1,1 +1,3 @@
 # MyFirstCourse
+
+## Project Notes
